@@ -1,9 +1,5 @@
 name: NoHitDelay
-main: erkam2002\NoHitDelay
-api:
-- 2.0.0
-- 3.0.0-ALPHA8
-- 3.0.0-ALPHA9
-- 3.0.0
-version: 1.0
-author: erkam2002
+main: ErkamKahriman\NoHitDelay
+api: 3.0.1
+version: 1.1
+author: ErkamKahriman
